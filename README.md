@@ -1,5 +1,8 @@
 # Lab8Web
-
+#### Nama   = DZAKI ARIF RAHMAN  
+#### Kelas  = TI.24.A4  
+#### NIM    = 312410312  
+#### Matkul  = Pemograman Web 1 
 
 
 ## Struktur Proyek Saya
