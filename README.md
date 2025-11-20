@@ -524,8 +524,10 @@ a.btn-tambah:hover {
 ## 4\. screenshot kodingannya
 
 **Tampilan awal**
-<img width="1541" height="943" alt="Screenshot 2025-11-20 135812" src="https://github.com/user-attachments/assets/d19865de-0941-44b3-b005-03119c219c3b" />
+<img width="1534" height="933" alt="image" src="https://github.com/user-attachments/assets/60e79b2c-a97c-494e-a461-5f50027a4ebc" />
+
 
 **Tampilan Tambahkan Prodak**
-<img width="1502" height="895" alt="Screenshot 2025-11-20 135723" src="https://github.com/user-attachments/assets/fa89d73c-d563-4e3f-aafc-8df69cadb8a6" />
+<img width="1230" height="827" alt="image" src="https://github.com/user-attachments/assets/b797aad7-b4ca-4c6b-9e1c-8acbf40ca769" />
+
 
