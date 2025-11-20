@@ -520,3 +520,12 @@ a.btn-tambah:hover {
 }
 ````
 -----
+
+## 4\. screenshot kodingannya
+
+**Tampilan awal**
+<img width="1541" height="943" alt="Screenshot 2025-11-20 135812" src="https://github.com/user-attachments/assets/d19865de-0941-44b3-b005-03119c219c3b" />
+
+**Tampilan Tambahkan Prodak**
+<img width="1502" height="895" alt="Screenshot 2025-11-20 135723" src="https://github.com/user-attachments/assets/fa89d73c-d563-4e3f-aafc-8df69cadb8a6" />
+
